@@ -25,4 +25,4 @@ Visualize results on a nice dashboard
 * Data Preprocessing
 * Clustering with DBScan
 * Custom Visualization with Plotly 
-* Deployement of a Dashboard with Dash
+* Deployment of a Dashboard with Dash
